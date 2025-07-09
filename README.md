@@ -4,7 +4,7 @@
 
 Breaking code by day, fixing it by night. Currently into game dev, systems programming, and web development.
 
-I build stuff, make games, and turn coffee into code ☕
+I build stuff, make games, and turn Monsters(🥤⚡) into code 👻
 
 *Sky is the limit* 🚀
 
