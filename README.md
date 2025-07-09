@@ -1,18 +1,13 @@
-## Hi there 👋
+# Hi there! 👋 I'm Alexandru Milea
 
-TEST MILEANOS
+**Student** at the Military Technical Academy "Ferdinand I" in Bucharest.
 
-<!--
-**Aless2303/Aless2303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Breaking code by day, fixing it by night. Currently into game dev, systems programming, and web development.
 
-Here are some ideas to get you started:
+I build stuff, make games, and turn coffee into code ☕
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Sky is the limit* 🚀
+
+---
+
+*Thanks for stopping by and checking out my digital chaos! 🎮*
