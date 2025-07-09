@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there! 👋 I'm Alexandru Milea
+# Hi there! 🐤 I'm Alexandru Milea
 
 **Student** at the Military Technical Academy "Ferdinand I" in Bucharest.
 
