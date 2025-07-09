@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi there! 👋 I'm Alexandru Milea
 
 **Student** at the Military Technical Academy "Ferdinand I" in Bucharest.
@@ -11,3 +13,5 @@ I build stuff, make games, and turn Monsters (🥤⚡) into code 👻
 ---
 
 *Thanks for stopping by and checking out my digital chaos! 🎮*
+
+</div>
