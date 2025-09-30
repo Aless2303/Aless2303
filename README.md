@@ -12,5 +12,7 @@ I build stuff, make games, and turn Monsters (🥤⚡) into code 👻
 
 ---
 *Thanks for stopping by and checking out my digital chaos! 🎮*
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=Aless2303)
+
 </div>
